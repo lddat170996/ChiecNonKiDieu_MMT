@@ -1,0 +1,4 @@
+3
+hanoi	Thu Do Viet Nam	5
+hochiminh	Lanh Tu Viet Nam	5
+tcp	Mo hinh mang	5
